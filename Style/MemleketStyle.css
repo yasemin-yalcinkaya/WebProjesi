@@ -1,0 +1,15 @@
+body{
+	background-color:#ecf0f1 ;
+}
+.slider{
+	width: 100%;
+	height: 450px;
+}
+.bilgi{
+	background-color: white;
+	padding-top: 5px;
+	border-radius: 3px;
+}
+.gezilecekYerlerResim{
+	height: 280px;
+}
