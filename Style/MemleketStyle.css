@@ -10,6 +10,12 @@ body{
 	padding-top: 5px;
 	border-radius: 3px;
 }
+.bilgi2{
+	border-left: 5px solid #ecf0f1;
+	background-color: white;
+	padding-top: 15px;
+	border-radius: 3px;
+}
 .gezilecekYerlerResim{
 	height: 280px;
 }
