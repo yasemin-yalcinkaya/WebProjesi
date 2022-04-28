@@ -6,7 +6,6 @@ var duration =2000;
 function slideImg() 
 {
 	document.slider.src=images[i];
-
 	if (i<images.length-1)
 	 {
 		i++;
@@ -17,7 +16,6 @@ function slideImg()
      }
 
    setTimeout("slideImg()",duration);
-
 }
 
 window.onload=slideImg;
